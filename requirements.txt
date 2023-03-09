@@ -3,8 +3,8 @@ sklearn==1.23
 tensorflow==2.6.1
 tensorflow-estimator==2.6.0
 keras==2.6.0
-absl-py==0.10.0
+absl-py==3.10.0
 tf-slim==1.1.1
-ml-metadata==2.26.0
+ml-metadata==2.26.2
 keras-tuner==1.0.3
 mock==4.0.3
